@@ -1,0 +1,13 @@
+Infectiveness
+Size of population
+Natural immunity: How likely to go away on its own
+Starting infected
+Infection radius
+
+Maybe: Social Distancing
+Maybe: Enable Coronavirus stats
+Maybe: Enable death and degrees of infection
+Maybe: Become immune after first infection
+
+
+Reset Button
